@@ -1,4 +1,4 @@
-# Comandos_Manipula-o_Diret-rios_Linux_FATEC
+# Comandos_Manipulacao_Diretorios_Linux_FATEC
 Manipulando Diretórios no Linux (SLAX)
 
 -----------------------------------------
